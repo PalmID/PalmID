@@ -2,7 +2,12 @@
 
 Identify yourself with your `Palm ID`.
 
-Use [`EDCC-Palmprint-Recognition`](https://github.com/Leosocy/EDCC-Palmprint-Recognition) and [`RobustPalmprintROI`](https://github.com/Leosocy/RobustPalmprintROI) to build a complete palmprint authentication system demo.
+Use `Palmprint Image Processor` and `Palmprint Codec` to build a complete palmprint authentication system demo.
+
+- `Palmprint Image Processor`:
+    1. Palm detection
+    1. Palmprint ROI extraction
+- `Palmprint Codec`
 
 ## Architecture
 
